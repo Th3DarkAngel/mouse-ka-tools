@@ -203,6 +203,12 @@ Power Bank (5V/1A)
 
 ## Field Reports
 
+![Airodump KAYLAN](./screenshots/airodump.jpg)
+*Airodump-ng locked onto KAYLAN — Channel 11, WPA2*
+
+![Deauth Attack](./screenshots/deauth.jpeg)
+*Successful deauthentication attack*
+
 | Target | Date | Result |
 |--------|------|--------|
 | KAYLAN (Home Network) | March 2026 | [Full Report](./reports/KAYLAN_Pentest_Report.docx) |
