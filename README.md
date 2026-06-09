@@ -203,7 +203,7 @@ Power Bank (5V/1A)
 
 ## Field Reports
 
-![Airodump KAYLAN](./screenshots/airodump.jpg)
+![Airodump KAYLAN](./screenshots/airodump.jpeg)
 *Airodump-ng locked onto KAYLAN — Channel 11, WPA2*
 
 ![Deauth Attack](./screenshots/deauth.jpeg)
