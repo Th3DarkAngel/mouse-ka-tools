@@ -152,6 +152,9 @@ iwlist wlan1 scan
 
 The Atheros adapter handles monitoring and displays nearby WiFi networks — confirming the full setup is working. 🎯
 
+![Recon Output](screenshots/reacon.png)
+*Atheros AR9271 detecting nearby networks*
+
 ---
 
 ## Architecture
